@@ -64,3 +64,5 @@ in various formats (RTF, DOCX,
 PDF with bookmark)
 
 https://phuse.s3.eu-central-1.amazonaws.com/Archive/2023/Connect/US/Florida/PRE_ST14.pdf
+
+## Validation?
