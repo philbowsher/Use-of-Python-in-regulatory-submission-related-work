@@ -65,4 +65,11 @@ PDF with bookmark)
 
 https://phuse.s3.eu-central-1.amazonaws.com/Archive/2023/Connect/US/Florida/PRE_ST14.pdf
 
+Novo
+
+Circus of Python in Real World Evidence
+Python has several libraries to perform statistical analysis
+
+https://www.lexjansen.com/phuse-us/2022/et/PRE_ET02.pdf
+
 ## Validation?
