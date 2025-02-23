@@ -72,4 +72,13 @@ Python has several libraries to perform statistical analysis
 
 https://www.lexjansen.com/phuse-us/2022/et/PRE_ET02.pdf
 
+Daiichi-Sankyo
+
+To create a swimmer plot in Python, the PLOTLY and MPATCHES libraries need to be imported first. The BARH
+function is utilized to draw the horizontal bar chart while additional information is added using multiple SCATTER
+functions.
+
+https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PRE_DV01.pdf
+https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PAP_DV01.pdf
+
 ## Validation?
