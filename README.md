@@ -134,4 +134,11 @@ modules.
 
 https://www.lexjansen.com/pharmasug/2024/SD/PharmaSUG-2024-SD-255.pdf
 
+Vertex Pharmaceuticals
+
+ReadLog Utility: Python Based Log Tool
+and the First Step of a Comprehensive QC System
+
+https://www.lexjansen.com/pharmasug/2024/SD/PharmaSUG-2024-SD-365.pdf
+
 ## Validation?
