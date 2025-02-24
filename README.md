@@ -81,4 +81,38 @@ functions.
 https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PRE_DV01.pdf
 https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PAP_DV01.pdf
 
+UCB Pharma S.A.
+
+https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PAP_SM16.pdf
+https://phuse.s3.eu-central-1.amazonaws.com/Archive/2024/Connect/EU/Strasbourg/PRE_SM16.pdf
+
+Johnson & Johnson
+
+, I would like to utilize the rich resource of data
+exploration and manipulation techniques in Python libraries.
+
+https://www.lexjansen.com/pharmasug-cn/2024/CC/Pharmasug-China-2024-CC10008_Final_Paper.pdf
+
+Pfizer
+
+At the same time, risk factors’ distribution of these patients was highlighted in the alluvial
+plot. According to which subgroups the patients fall in, investigators can estimate the potential risk andprepare the target therapeutic regimen.
+
+https://www.lexjansen.com/pharmasug-cn/2024/DV/Pharmasug-China-2024-DV10003_Final_Paper.pdf
+
+Pfizer
+
+Streamlite
+
+https://www.lexjansen.com/pharmasug-cn/2024/DV/Pharmasug-China-2024-DV10012_Final_Paper.pdf
+
+Python Streamlit is a powerful tool for creating interactive web
+applications with ease. Various features of Streamlit includes text inputs, sliders, buttons, and image
+embedding, to create interactive elements that respond to user input in real-time. Additionally, advanced
+techniques such as data visualization with interactive charts and integration with machine learning
+models, enables us to elevate the presentations with rich, dynamic content. Whether displaying data
+science dashboard, presenting research findings, showcasing product demos, or facilitating workshops,
+Python Streamlit empowers presenters to deliver immersive experiences that leave a lasting impression
+on their audience.
+
 ## Validation?
