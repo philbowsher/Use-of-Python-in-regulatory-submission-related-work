@@ -115,4 +115,23 @@ science dashboard, presenting research findings, showcasing product demos, or fa
 Python Streamlit empowers presenters to deliver immersive experiences that leave a lasting impression
 on their audience.
 
+Jazz
+
+AutoVis Oncology Presenter: Automated Python-Driven Statistical Analysis
+and Visualizations for Powerful Presentations
+
+By leveraging Python libraries and
+custom functions, users can efficiently process data, create visualizations, and produce professional
+presentations.
+
+https://www.lexjansen.com/pharmasug/2024/DV/PharmaSUG-2024-DV-246.pdf
+
+Merck & Co.
+
+Python is widely favored for extraction of information from XML files due to its robust library
+support, especially with standard XML processing modules such as xml.dom and xml.sax
+modules. 
+
+https://www.lexjansen.com/pharmasug/2024/SD/PharmaSUG-2024-SD-255.pdf
+
 ## Validation?
