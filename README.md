@@ -1,7 +1,7 @@
 # Use-of-Python-in-regulatory-submission-related-work
 Just personal Notes and items on using Use of Python in regulatory submission-related work
 
-## Groups are using Python in submissions
+## Using Python in GxP Environments & submissions
 
 https://github.com/philbowsher/Open-Source-in-New-Drug-Applications-NDAs-FDA
 
